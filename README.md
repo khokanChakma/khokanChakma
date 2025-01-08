@@ -15,6 +15,9 @@
 <h3 align="left">My name is Khokan and I'm a Frontend Developer from Bangladesh. I am"Front-end developer skilled in React, Tailwind CSS, and Firebase. Passionate about creating dynamic, user-friendly applications.</h3>
 
 ###
+- 📫 How to reach me: 📧khokancrmt@gmail.com
+- location: Rangamati, Chittagong, Bangladesh
+###
 
 <p align="left">✨ **Creating bugs since** ... 2018  <br>📚 **I'm currently learning** ... Advanced React, node js, mongodb, and Tailwind CSS  <br>🎯 **Goals**: Master full-stack development, contribute to open-source projects, and build innovative web applications  <br>🎲 **Fun fact**: I love playing video games and often draw inspiration for UI/UX design from gaming interfaces!</p>
 
