@@ -17,6 +17,18 @@
 ###
 - 📫 How to reach me: 📧khokancrmt@gmail.com
 - location: Rangamati, Chittagong, Bangladesh
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/khokan-chakma/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/khokancrmt" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+</div>
+
 ###
 
 <p align="left">✨ **Creating bugs since** ... 2018  <br>📚 **I'm currently learning** ... Advanced React, node js, mongodb, and Tailwind CSS  <br>🎯 **Goals**: Master full-stack development, contribute to open-source projects, and build innovative web applications  <br>🎲 **Fun fact**: I love playing video games and often draw inspiration for UI/UX design from gaming interfaces!</p>
