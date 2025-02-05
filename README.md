@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://ibb.co.com/HfBLyDkp" alt="Banner Image" />
+  <img height="200" src="https://i.ibb.co.com/DGMtr6F/photo.jpg"  />
 </div>
 
 ###
@@ -15,10 +15,6 @@
 <h3 align="left">My name is Khokan and I'm a Frontend Developer from Bangladesh. I am"Front-end developer skilled in React, Tailwind CSS, and Firebase. Passionate about creating dynamic, user-friendly applications.</h3>
 
 ###
-- 📫 How to reach me: 📧khokancrmt@gmail.com
-- location: Rangamati, Chittagong, Bangladesh
-
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/khokan-chakma/" target="_blank">
@@ -27,7 +23,14 @@
   <a href="https://x.com/khokancrmt" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
+  <a href="https://www.facebook.com/khokan.chakma.59360/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
 </div>
+
+###
+
+<p align="left">I’m Khokan Chakma, a passionate front-end developer with expertise in React, Tailwind CSS, and modern web technologies. I enjoy building dynamic and user-friendly applications, from coupon-collecting platforms to gaming, blog and building management websites. Always eager to learn and explore new tools to enhance user experiences. 🚀</p>
 
 ###
 
@@ -54,5 +57,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
+
+###
+
+<p align="left">Hello World!!</p>
 
 ###
