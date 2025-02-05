@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://i.ibb.co.com/sdbp4vMJ/Frontend-web-devloper.jpg"  />
+  <img height="200" src="https://i.ibb.co.com/sdbp4vMJ/Frontend-web-devloper.jpg"  />
 </div>
 
 ###
